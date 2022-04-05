@@ -16,7 +16,7 @@ main{background-color: aquamarine;}
     border-radius: 5px;
 }
 
-.bg_box{
-    background-color:aqua;
-    color: white;
-}
+.bg_box     {background-color:aqua;color: white;}
+.bg_red     {background-color:red; color: white;}
+.bomb       {width: 70%;}
+
