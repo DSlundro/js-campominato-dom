@@ -1,0 +1,22 @@
+img{width: 50px;}
+main{background-color: aquamarine;}
+
+.box {
+    margin: auto;
+    width: 800px;
+    height: 800px;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.bg_box{
+    background-color:aqua;
+    color: white;
+}
